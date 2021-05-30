@@ -18,7 +18,7 @@ O Projeto I tem como objetivo o desenvolvimento de um amplificador de áudio cla
 
 ---
 
-### Descrição da proposta do Trabalho Prático I:
+## Descrição da proposta do Trabalho Prático I:
 
 Neste trabalho cada grupo irá realizar o projeto, simulação, especificação e montagem de um amplificador de áudio para a disciplina. O amplificador a ser montado deverá atender às seguintes especificações mínimas:
 
