@@ -4,4 +4,10 @@
 - Tensão de Offset:
 	- A medição é nos braços do coletor?
 
+- Slew rate:
+	- Tá acontecendo uma oscilação, o tempo de comodação deve considerar a oscilação?
+	- O sinal de saída está apresentando uma componente DC de -1.2V
+
+
+
 
