@@ -1,0 +1,7 @@
+- Ganho de Modo-comum
+	- A fórmula usa o ganho em dB ou em V/V
+
+- Tensão de Offset:
+	- A medição é nos braços do coletor?
+
+
