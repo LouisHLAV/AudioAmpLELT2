@@ -1,2 +1,6 @@
 *.log
 *.raw
+*.plt
+*.net
+*.imp
+reports/.~lock.relatorio-1.odt#
