@@ -23,3 +23,7 @@ end
 function slew_rate(dv, dt)
     return dv / (dt * 1e-3)
 end
+
+function percentual_gain(old, new)
+    return ((new / old) - 1) * 100
+end
