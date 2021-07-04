@@ -1,5 +1,5 @@
-clean:
+rm-raw:
 	rm *.raw
 
-clean-all:
+clean:
 	rm *.log *.raw
