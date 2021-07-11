@@ -16,6 +16,10 @@ function input_imp_open(Rif, Ad, B=1/11)
     return Rif / (1 + Ad * B)
 end
 
+function input_imp_closed(Ri, Ad, B=1/11)
+    return Ri * (1 + Ad * B)
+end
+
 function output_imp_open(Rof, Ad, B=1/11)
     return Rof * (1 + Ad * B)
 end
