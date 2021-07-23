@@ -2,4 +2,5 @@ rm-raw:
 	rm *.raw
 
 clean:
-	rm *.log *.raw
+	rm *.log *.raw *.net *.fft *.plt
+
